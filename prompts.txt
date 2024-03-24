@@ -61,8 +61,8 @@ Bu kısma kadar anladıysan "anladım" şeklinde cevap ver ve benden sitenin yap
 
 3) Bu web sitenin "header" bölümünde bir navbar (navigasyon çubuğu) bulunacak. Bu navbarın tasarımı aşağıdaki gibi olacak:
 - Navbarın arkaplan rengi "açık mavi" olacak.
-- Navbarın sol tarafında logo görseli için bir kısım ve "<span>" etiketi ile oluşturulan "NFT LARYON" yazısı olacak. Logo görselinin boyutu navbara sığdırılacak.
-- "NFT LARYON" yazısı "color: #1E3F5A;", "font-size: 1.2rem" stillerine sahip olacak. Logo ile hizalı olacak.
+- Navbarın sol tarafında logo görseli için bir kısım ve "<span>" etiketi ile oluşturulan "LARYON NFT" yazısı olacak. Logo görselinin boyutu navbara sığdırılacak.
+- "LARYON NFT" yazısı "color: #1E3F5A;", "font-size: 1.2rem" stillerine sahip olacak. Logo ile hizalı olacak.
 - Navbarın sağ tarafında ise "Linkedin" yazısı ve "Github" yazısı yan yana oluşturulacak. Ayrıca bu yazılar linklere sahip olacak.
 - "Github" ve "Linkedin" yazıları "color: #1E3F5A;", "font-size: 1.2rem" stillerine de sahip olacak.
 
@@ -79,7 +79,7 @@ Bu kısma kadar anladıysan "anladım" şeklinde cevap ver ve benden sitenin yap
 - Üçüncü ve dördüncü section da ikinci section ile aynı şekilde olacak.
 
 5) En alt kısımda ise "açık mavi" renginde "footer" olacak. 
-- Footer'da "NFT LARYON" ve  "CopyRight ©2024 GPT" yazısı yer alacaktır. Bu yazıların arasında biraz boşluk olacak ve "color: #1E3F5A;", "font-size: 1.2rem" stillerine de sahip olacak.
+- Footer'da "LARYON NFT" ve  "CopyRight ©2024 GPT" yazısı yer alacaktır. Bu yazıların arasında biraz boşluk olacak ve "color: #1E3F5A;", "font-size: 1.2rem" stillerine de sahip olacak.
 - Footer'ın "position" özelliği olamayacaktır ve boyutu navbar ile eşit olacak.
 
 6) Web sitesi response bir yapıya sahip olduğundan, ekran küçülünce bileşenler alt alta gelecek şekilde konumlandırılacak, boyutları değişmeyecek.
