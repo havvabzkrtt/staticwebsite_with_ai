@@ -1,5 +1,5 @@
 
-Bu repoda yapay zeka araçları kullanarak statik bir web sitesi geliştirdim. Bütün HTML, CSS ve JavaScript dosyalarıi için kullanılacak kodları, sitede kullanılan resimleri ve yazıları yapay zekaya yazdırarak websitenin içeriğini oluşturdum. Bu şekilde prompt engineering ile ilgili çalışma yapmış oldum. 
+Bu repoda yapay zeka araçları kullanarak statik bir web sitesi geliştirdim. Bütün HTML, CSS ve JavaScript dosyalarıi için kullanılacak kodları, sitede kullanılan resimleri ve yazıları yapay zeka araçları kullanarak oluşturdum ve websitenin içeriğini elde ettim. 
 
 -------------------------------------------------------------------------------------------------------------------
 
